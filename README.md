@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive **Sales & Profit Analytics Dashboard** built using Power BI.  
+This project presents an interactive **Sales & Profit Analytics Dashboard** developed using Power BI.  
 The objective is to transform raw transactional data into actionable business insights through structured data modeling, DAX calculations, and intuitive visualizations.
 
 The dashboard enables stakeholders to monitor performance, analyze customer behavior, and evaluate operational efficiency in a dynamic, data-driven manner.
@@ -30,12 +30,12 @@ The dashboard enables stakeholders to monitor performance, analyze customer beha
 ### 🔹 Sales & Profit Analysis
 - Month-wise and Year-wise trend analysis  
 - Seasonality identification  
-- Year-over-Year comparison  
+- Year-over-Year performance comparison  
 
 ### 🔹 Regional & Product Insights
 - Sales & Profit by Region and State  
-- Category & Sub-Category performance  
-- High and low-performing area identification  
+- Category & Sub-Category performance analysis  
+- Identification of high and low-performing areas  
 
 ### 🔹 Customer Insights
 - Sales by Segment (Consumer, Corporate, Home Office)  
@@ -52,7 +52,7 @@ The dashboard enables stakeholders to monitor performance, analyze customer beha
 - Power BI Desktop  
 - Power Query (Data Cleaning & Transformation)  
 - Data Modeling  
-- DAX (Measures & KPIs)  
+- DAX (Measures, KPIs, Calculated Columns)  
 - Interactive Filters & Slicers  
 
 ---
@@ -63,5 +63,13 @@ The dashboard enables stakeholders to monitor performance, analyze customer beha
 - KPI Development using DAX  
 - Data Modeling & Relationship Management  
 - Dashboard Design & Data Storytelling  
+- Insight Generation for Data-Driven Decision Making  
 
 ---
+
+## 🚀 Future Improvements
+
+- Drill-through analysis pages  
+- Forecasting using time-series modeling  
+- Row-Level Security (RLS) implementation  
+- DAX performance optimization  
